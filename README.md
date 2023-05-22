@@ -1,5 +1,7 @@
-# generative-game-content
+# Generative Game Content
 
-## Directory
+## Rel Game
+
+### Wildfire Scenario
 
 - [Info Sources List](/data/relgame/html/InfoSources.html)
