@@ -2,5 +2,4 @@
 
 ## Directory
 
-- [Document Pages](/data/relgame/html/InfoSources.html)
-- [Images](/docs/img)
+- [Info Sources List](/data/relgame/html/InfoSources.html)
